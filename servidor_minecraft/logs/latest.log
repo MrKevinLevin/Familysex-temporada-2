@@ -712,3 +712,16 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [20Jul2025 02:14:03.166] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [20Jul2025 02:14:45.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Alchemist
 [20Jul2025 02:14:46.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[20Jul2025 02:18:50.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Tough to Beat]
+[20Jul2025 02:19:02.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Quite The Boost]
+[20Jul2025 02:21:56.411] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[20Jul2025 02:21:56.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! 10.025616521042139,12.0,5.545239736753501
+[20Jul2025 02:21:56.415] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[20Jul2025 02:22:06.010] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[20Jul2025 02:22:06.014] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[20Jul2025 02:22:56.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was shot by Alchemist
+[20Jul2025 02:23:05.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Alchemist
+[20Jul2025 02:23:53.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[20Jul2025 02:23:53.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[20Jul2025 02:28:15.210] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[20Jul2025 02:28:15.213] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
