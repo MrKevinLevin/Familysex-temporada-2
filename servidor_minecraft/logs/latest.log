@@ -744,3 +744,30 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [20Jul2025 02:47:06.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
 [20Jul2025 02:48:01.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1023.500000, 94.500000, 566.500000]
 [20Jul2025 02:48:13.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[20Jul2025 02:50:42.627] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 148.9 μs. 249/249 recipes are parallelized.
+[20Jul2025 02:51:34.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -780.500000, 72.500000, -849.500000]
+[20Jul2025 02:59:17.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[20Jul2025 03:01:33.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:54570] logged in with entity id 32597 at (-2290.8821757442283, 102.0, 1022.9041924942173)
+[20Jul2025 03:01:33.933] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Misterchuwa
+[20Jul2025 03:01:33.933] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Misterchuwa
+[20Jul2025 03:01:33.934] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Misterchuwa
+[20Jul2025 03:01:33.934] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Misterchuwa
+[20Jul2025 03:01:33.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Misterchuwa
+[20Jul2025 03:01:33.937] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Misterchuwa
+[20Jul2025 03:01:33.938] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Misterchuwa
+[20Jul2025 03:01:33.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[20Jul2025 03:02:08.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> jjhjh
+[20Jul2025 03:02:49.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -773.500000, 68.500000, -846.500000]
+[20Jul2025 03:03:06.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> donde andan
+[20Jul2025 03:03:21.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elpepe> mano
+[20Jul2025 03:03:36.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> machupichu cuy chatao gaaa causa
+[20Jul2025 03:06:07.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set the time to 1000]
+[20Jul2025 03:08:14.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[20Jul2025 03:08:18.712] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[20Jul2025 03:08:18.713] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[20Jul2025 03:08:18.764] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[20Jul2025 03:08:18.813] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[20Jul2025 03:08:18.814] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[20Jul2025 03:08:19.912] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[20Jul2025 03:08:19.912] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[20Jul2025 03:08:19.913] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
