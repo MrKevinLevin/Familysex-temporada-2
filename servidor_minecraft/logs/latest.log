@@ -726,3 +726,21 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [20Jul2025 02:28:15.210] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [20Jul2025 02:28:15.213] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [20Jul2025 02:29:15.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was killed by Alchemist using magic
+[20Jul2025 02:42:44.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [A Seedy Place]
+[20Jul2025 02:43:13.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:63728] logged in with entity id 18063 at (-1026.5, 92.0, 580.5)
+[20Jul2025 02:43:13.432] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JAGlitsh
+[20Jul2025 02:43:13.432] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JAGlitsh
+[20Jul2025 02:43:13.432] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JAGlitsh
+[20Jul2025 02:43:13.433] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JAGlitsh
+[20Jul2025 02:43:13.435] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JAGlitsh
+[20Jul2025 02:43:13.437] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JAGlitsh
+[20Jul2025 02:43:13.437] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JAGlitsh
+[20Jul2025 02:43:13.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[20Jul2025 02:43:41.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -780.500000, 72.500000, -849.500000]
+[20Jul2025 02:44:41.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2321.500000, -13.500000, 1208.500000]
+[20Jul2025 02:44:48.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[20Jul2025 02:44:59.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1023.500000, 94.500000, 566.500000]
+[20Jul2025 02:45:16.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -780.500000, 72.500000, -849.500000]
+[20Jul2025 02:47:06.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[20Jul2025 02:48:01.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1023.500000, 94.500000, 566.500000]
+[20Jul2025 02:48:13.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
