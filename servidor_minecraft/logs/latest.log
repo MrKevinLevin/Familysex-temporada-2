@@ -655,3 +655,43 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [20Jul2025 01:39:51.167] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
 [20Jul2025 01:39:51.168] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
 [20Jul2025 01:39:51.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[20Jul2025 01:52:47.596] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:62052] logged in with entity id 2004 at (-2105.26007606073, 116.70833560867958, -1081.9722528278076)
+[20Jul2025 01:53:05.280] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JAGlitsh
+[20Jul2025 01:53:05.285] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JAGlitsh
+[20Jul2025 01:53:05.286] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JAGlitsh
+[20Jul2025 01:53:05.288] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JAGlitsh
+[20Jul2025 01:53:05.292] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JAGlitsh
+[20Jul2025 01:53:05.295] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JAGlitsh
+[20Jul2025 01:53:05.296] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JAGlitsh
+[20Jul2025 01:53:05.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[20Jul2025 01:53:05.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17940ms or 358 ticks behind
+[20Jul2025 01:53:07.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[20Jul2025 01:53:07.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[20Jul2025 01:53:22.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:62093] logged in with entity id 2014 at (-2105.26007606073, 116.70833560867958, -1081.9722528278076)
+[20Jul2025 01:54:05.227] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JAGlitsh
+[20Jul2025 01:54:05.228] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JAGlitsh
+[20Jul2025 01:54:05.229] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JAGlitsh
+[20Jul2025 01:54:05.229] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JAGlitsh
+[20Jul2025 01:54:05.233] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JAGlitsh
+[20Jul2025 01:54:05.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JAGlitsh
+[20Jul2025 01:54:05.250] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JAGlitsh
+[20Jul2025 01:54:05.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[20Jul2025 01:54:05.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! 9.638735024320795,-0.07242780368044066,-2.710059117641322
+[20Jul2025 01:54:05.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 42428ms or 848 ticks behind
+[20Jul2025 01:54:30.686] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[20Jul2025 01:55:05.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! 3.7139851363267553,12.717096777258448,-0.5272767311118969
+[20Jul2025 01:55:05.234] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[20Jul2025 01:55:05.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34588ms or 691 ticks behind
+[20Jul2025 01:55:36.012] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[20Jul2025 01:56:05.225] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[20Jul2025 01:56:05.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Alchemist
+[20Jul2025 01:56:05.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29943ms or 598 ticks behind
+[20Jul2025 01:56:06.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[20Jul2025 01:56:15.414] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Not Installed for use
+[20Jul2025 01:56:35.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was shot by Alchemist
+[20Jul2025 01:56:41.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4349ms or 86 ticks behind
+[20Jul2025 01:58:11.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [Here They Come]
+[20Jul2025 02:02:50.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Music register]
+[20Jul2025 02:03:34.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Writing...]
+[20Jul2025 02:07:45.416] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[20Jul2025 02:07:45.419] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved

@@ -7872,5 +7872,17 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/write_cassette_tape": {
+    "criteria": {
+      "write_cassette_tape": "2025-07-20 02:03:34 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/add_music": {
+    "criteria": {
+      "add_music": "2025-07-20 02:02:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
