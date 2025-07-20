@@ -695,3 +695,20 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [20Jul2025 02:03:34.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Writing...]
 [20Jul2025 02:07:45.416] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
 [20Jul2025 02:07:45.419] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[20Jul2025 02:08:33.711] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[20Jul2025 02:08:33.715] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[20Jul2025 02:08:33.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -2.193214543626709,8.024424088213692,6.70092523744097
+[20Jul2025 02:08:48.512] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[20Jul2025 02:08:48.517] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[20Jul2025 02:08:48.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[20Jul2025 02:09:05.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was stabbed with a spike by Alchemist
+[20Jul2025 02:09:48.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was shot by Alchemist
+[20Jul2025 02:11:55.781] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.939 ms. 5487/5648 recipes are parallelized.
+[20Jul2025 02:13:00.410] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[20Jul2025 02:13:00.413] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[20Jul2025 02:14:00.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was stabbed with a spike by Alchemist
+[20Jul2025 02:14:03.162] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[20Jul2025 02:14:03.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[20Jul2025 02:14:03.166] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[20Jul2025 02:14:45.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Alchemist
+[20Jul2025 02:14:46.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
