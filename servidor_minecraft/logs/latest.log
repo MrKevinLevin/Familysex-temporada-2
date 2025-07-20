@@ -725,3 +725,4 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [20Jul2025 02:23:53.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
 [20Jul2025 02:28:15.210] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [20Jul2025 02:28:15.213] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[20Jul2025 02:29:15.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was killed by Alchemist using magic
